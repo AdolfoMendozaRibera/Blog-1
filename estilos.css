@@ -1,0 +1,9 @@
+header {background: green;}
+footer {background: green;}
+blockquote[cite] {background: red;}
+h1{font-size: 50px;  font-family:sans-serif;  font-weight: lighter;}
+h1{font-size: 14px;  font-family:sans-serif;  font-weight: bold;}
+
+header,section,footer,aside,nav,article, hgroup{border: 1px solid black; display: block;}
+body{text-align: center;}
+
