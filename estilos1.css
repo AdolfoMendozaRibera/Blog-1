@@ -1,0 +1,20 @@
+blockquote[cite] {background: red;}
+h1{font-size: 50px;  font-family:sans-serif;  font-weight: lighter;}
+h1{font-size: 14px;  font-family:sans-serif;  font-weight: bold;}
+
+header,section,footer,aside,nav,article, hgroup{border: 1px solid black; display: block;}
+body{text-align: center;}
+
+
+.agrupar
+{
+    width: 960px ;
+    background: green; 
+    margin-top: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: auto;
+}
+
+img{width: 500px;}
+
